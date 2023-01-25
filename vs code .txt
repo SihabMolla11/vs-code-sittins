@@ -1,0 +1,20 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.fontSize": 20,
+  "editor.accessibilitySupport": "off",
+  "editor.minimap.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.formatOnSave": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontSize": 18,
+  "tailwindCSS.emmetCompletions": true,
+  "workbench.colorTheme": "FlatUI Dark",
+  "workbench.iconTheme": "material-icon-theme"
+}
