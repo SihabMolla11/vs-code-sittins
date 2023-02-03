@@ -1,0 +1,40 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.fontSize": 20,
+  "editor.accessibilitySupport": "on",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.minimap.enabled": true,
+  "editor.formatOnSave": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontSize": 18,
+  "tailwindCSS.emmetCompletions": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.autoFormatConfigFile": true,
+  "editor.minimap.showSlider": "always",
+  "terminal.integrated.minimumContrastRatio": 3,
+  "cSpell.minWordLength": 3,
+  "editor.minimap.autohide": true,
+  "terminal.integrated.gpuAcceleration": "off",
+  "workbench.colorTheme": "Dracula Refined",
+  "editor.tokenColorCustomizations": {
+    "comments": "#297497"
+  },
+  // tis if for colors customize
+  "workbench.colorCustomizations": {
+    "editor.background": "#211a2c",
+    "editorCursor.foreground": "#ffa600",
+  },
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorWidth": 0,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.multiCursorLimit": 1000,
+  "security.workspace.trust.untrustedFiles": "open",
+}
