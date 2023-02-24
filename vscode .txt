@@ -5,7 +5,7 @@
   "files.autoSaveDelay": 100,
   "liveServer.settings.donotShowInfoMsg": true,
   "terminal.integrated.fontSize": 20,
-  "editor.accessibilitySupport": "on",
+  "editor.accessibilitySupport": "off",
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
@@ -22,14 +22,17 @@
   "cSpell.minWordLength": 3,
   "editor.minimap.autohide": true,
   "terminal.integrated.gpuAcceleration": "off",
-  "workbench.colorTheme": "Dracula Refined",
   "editor.tokenColorCustomizations": {
-    "comments": "#297497"
+    "comments": "#7e7e7e"
   },
   // tis if for colors customize
   "workbench.colorCustomizations": {
-    "editor.background": "#211a2c",
-    "editorCursor.foreground": "#ffa600",
+    "editor.background": "#1a1818fb", // editor background color
+    "editorCursor.foreground": "#ffa600", // comment color
+    "editorLineNumber.foreground": "#525252", // line number color
+    "editor.selectionBackground": "#588cbd70", // selection color
+    "editor.foreground": "#ffffff", // (,) coma color;
+    "foreground": "#608686"
   },
   "editor.cursorBlinking": "expand",
   "terminal.integrated.cursorWidth": 0,
@@ -37,4 +40,8 @@
   "terminal.integrated.cursorBlinking": true,
   "editor.multiCursorLimit": 1000,
   "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.colorTheme": "Dracula",
+  "git.enableSmartCommit": true
 }
